@@ -8,9 +8,9 @@
 
 #### Versión 1.0.0
 
-Estructura
+Estructura:
 ```console
-  MyWebsite/
+  Página Web/
   |--css/
   |  |--materialize.css
   |

@@ -4,6 +4,6 @@
   </a>
 </p>
 
-<h3 align="center">MaterializeCSS</h3>
+<h3 align="center">Materialize</h3>
 
 #### Versión 1.0.0

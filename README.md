@@ -4,8 +4,8 @@
   </a>
 </p>
 
-<h3 aling="center">vérsion 1.0.0</h3>
-
+<h4 aligN="center">vérsion 1.0.0</h4>
+---
 ### Estructura de Materialize 
 ```console
 materialize/

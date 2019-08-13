@@ -4,18 +4,15 @@
   </a>
 </p>
 
-<h3 align="center">Materialize</h3>
+### Materialize Vérsion 1.0.0
 
-#### Versión 1.0.0
-
-Estructura:
 ```console
-  Página Web/
-  |--css/
-  |  |--materialize.css
-  |
-  |--js/
-  |  |--materialize.js
-  |
-  |--index.html
+materialize/
+ejemplo1/
+├── css
+│   └── materialize.min.css
+└── js
+    ├── main.js
+    └── materialize.min.js
+├── index.html
 ```

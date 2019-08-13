@@ -7,3 +7,15 @@
 <h3 align="center">Materialize</h3>
 
 #### Versión 1.0.0
+
+Estructura
+```console
+  MyWebsite/
+  |--css/
+  |  |--materialize.css
+  |
+  |--js/
+  |  |--materialize.js
+  |
+  |--index.html
+```

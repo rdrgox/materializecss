@@ -4,5 +4,7 @@
   </a>
 </p>
 
-## MaterializeCSS
+<h3 align="center">MaterializeCSS</h3>
 
+<h2>Versión 1.0.0</h2>
+<hr>

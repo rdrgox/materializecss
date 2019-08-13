@@ -8,13 +8,12 @@
 
 ---
 
-#### Estructura de Materialize 
+#### Estructura de Materialize: 
 ```console
 materialize/
 ├── css
 │   └── materialize.min.css
-└── js
-    ├── main.js
-    └── materialize.min.js
+├── js
+│   └── materialize.min.js
 ├── index.html
 ```

@@ -6,5 +6,6 @@
 
 <h3 align="center">MaterializeCSS</h3>
 
-<h2>Versión 1.0.0</h2>
+<h4>Versión 1.0.0</h4>
 <hr>
+####Versión 1.0.0

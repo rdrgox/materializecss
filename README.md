@@ -4,11 +4,11 @@
   </a>
 </p>
 
-### Materialize Vérsion 1.0.0
+<h3 aling="center">vérsion 1.0.0</h3>
 
+### Estructura de Materialize 
 ```console
 materialize/
-ejemplo1/
 ├── css
 │   └── materialize.min.css
 └── js
